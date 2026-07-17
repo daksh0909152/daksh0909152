@@ -27,6 +27,9 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+---
+
 <p align="center" width="80%">
   <i>"Passionate Software Engineer specializing in Artificial Intelligence and Data Science. Deployed production-grade web applications, optimized algorithmic route execution, and scaled intelligence pipelines. Focused on engineering high-efficiency systems where clean code meets modern machine learning."</i>
 </p>
