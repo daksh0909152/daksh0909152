@@ -1,26 +1,32 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.io/view?type=waving&color=1a1b26&height=280&section=header&text=DAKSH%20JAISWAL&fontSize=50&animation=fadeIn&fontColor=70a5fd&desc=Software%20Engineer%20%7C%20AI%20%26%20Data%20Science%20Specialist&descSize=22&descAlignY=65" width="100%" alt="Header Banner" />
-
-<!-- TYPING ANIMATION -->
-<h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7aa2f7&width=500&lines=Building+Scalable+Full-Stack+Apps;Engineering+Applied+ML+Solutions;Optimizing+Complex+Data+Systems;Solving+Algorithmic+Challenges" alt="Typing Effect" />
-  </a>
-</h1>
-
-<!-- VISITOR COUNTER & BADGES -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/daksh0909152/count.svg" alt="Visitor Counter" />
+  <img src="https://capsule-render.vercel.io/view?type=waving&color=1a1b26&height=280&section=header&text=DAKSH%20JAISWAL&fontSize=50&animation=fadeIn&fontColor=70a5fd&desc=Software%20Engineer%20%7C%20AI%20%26%20Data%20Science%20Specialist&descSize=22&descAlignY=65" width="100%" alt="Daksh Jaiswal Banner" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daksh-jaiswal-9964a7298)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/daksh0909152/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakshj401@gmail.com)
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7aa2f7&width=500&lines=Building+Scalable+Full-Stack+Apps;Engineering+Applied+ML+Solutions;Optimizing+Complex+Data+Systems;Solving+Algorithmic+Challenges" alt="Typing Effect" />
+</p>
 
----
+<!-- VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=daksh0909152&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
+</p>
 
+<!-- SOCIAL BADGES -->
+<p align="center">
+  <a href="https://linkedin.com/in/daksh-jaiswal-9964a7298" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/daksh0909152/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:dakshj401@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 <p align="center" width="80%">
   <i>"Passionate Software Engineer specializing in Artificial Intelligence and Data Science. Deployed production-grade web applications, optimized algorithmic route execution, and scaled intelligence pipelines. Focused on engineering high-efficiency systems where clean code meets modern machine learning."</i>
 </p>
