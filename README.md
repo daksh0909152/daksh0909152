@@ -2,8 +2,10 @@
 
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.io/view?type=waving&color=1a1b26&height=280&section=header&text=DAKSH%20JAISWAL&fontSize=50&animation=fadeIn&fontColor=70a5fd&desc=Software%20Engineer%20%7C%20AI%20%26%20Data%20Science%20Specialist&descSize=22&descAlignY=65" width="100%" alt="Daksh Jaiswal Banner" />
-</p>
+  <img src="https://assets.intersystems.com/dim/719f96ce75cc3f443b793fb0eb567636/GitHub-Octocat.gif" width="120px" alt="Octocat Gif" />
+  <h1 align="center" style="color: #7aa2f7; font-family: 'Fira Code', monospace;">DAKSH JAISWAL</h1>
+  <p align="center" style="font-size: 16px; color: #565f89;"><b>Software Engineer | AI & Data Science Specialist</b></p>
+</p>>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
